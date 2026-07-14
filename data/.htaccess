@@ -1,0 +1,2 @@
+# Verhindert direkten HTTP-Zugriff auf die JSON-Datendateien
+Require all denied

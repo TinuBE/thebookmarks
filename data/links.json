@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "id": "cat-1",
+            "name": "Entwicklung",
+            "order": 1
+        },
+        {
+            "id": "cat-2",
+            "name": "Tools",
+            "order": 2
+        }
+    ],
+    "links": [
+        {
+            "id": "link-1",
+            "title": "GitHub",
+            "url": "https://github.com",
+            "category_id": "cat-1",
+            "description": "Code-Repositories und Versionsverwaltung",
+            "type": "web",
+            "rdp_username": "",
+            "order": 1
+        },
+        {
+            "id": "link-2",
+            "title": "Plesk",
+            "url": "https://www.plesk.com",
+            "category_id": "cat-2",
+            "description": "",
+            "type": "web",
+            "rdp_username": "",
+            "order": 1
+        }
+    ]
+}
