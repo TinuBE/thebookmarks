@@ -1,6 +1,6 @@
 # Link-Sammlung
 
-Flat-File Link-Dashboard (PHP + Vanilla JS + JSON), grob an [pawelmalak/flame](https://github.com/pawelmalak/flame) angelehnt: öffentliches Frontend zeigt Links gruppiert nach Kategorie, geschütztes Backend zur Verwaltung.
+Flat-File Link-Dashboard (PHP + Vanilla JS + JSON), öffentliches Frontend zeigt Links gruppiert nach Kategorie, geschütztes Backend zur Verwaltung.
 
 ## Stack
 
